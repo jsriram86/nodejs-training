@@ -1,0 +1,4 @@
+- conditional statements (if, if else, switch)
+- loop statements (while, do-while, for)
+- function definitions
+- recusrive functions
